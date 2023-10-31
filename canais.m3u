@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MarcosBFerreira/guia/main/guide.xml"
 
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TODOS CANAIS", TV Cultura HD
-http://200.189.113.201:80/hls/tve-1676892737612.ts
+http://tv.com.vc:80/live/cilon/123/621582.ts
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-1.png" group-title="TODOS CANAIS", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
