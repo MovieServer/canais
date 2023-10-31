@@ -166,20 +166,20 @@ http://tv.com.vc:80/live/cilon/123/623562.ts
 http://tv.com.vc:80/live/cilon/123/623620.ts
 
 #EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/604px-Nick_Jr._logo_2009.svg.png" group-title="TODOS CANAIS", Nick Jr HD
-http://7online.xyz:8080/live/lito84/091204nik/22592.ts
+http://tv.com.vc:80/live/cilon/123/623627.ts
 
 #EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="TODOS CANAIS", Nickelodeon HD
-http://7online.xyz:8080/live/lito84/091204nik/22593.ts
+http://tv.com.vc:80/live/cilon/123/623630.ts
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TODOS CANAIS", Tooncast HD
-http://7online.xyz:8080/live/lito84/091204nik/22625.ts
+http://tv.com.vc:80/live/cilon/123/623633.ts
 
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="TODOS CANAIS", TV Rá-Tim-Bum
-http://7online.xyz:8080/live/lito84/091204nik/125503.ts
+http://tv.com.vc:80/live/cilon/123/962345.ts
 
 #EXTINF:-1 tvg-id="ZooMooBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="TODOS CANAIS", ZooMoo HD
-http://7online.xyz:8080/live/lito84/091204nik/125507.ts
- 
+http://tv.com.vc:80/live/cilon/123/623636.ts
+
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="TODOS CANAIS", Animal Planet HD
 http://conexaoonline.top:80/live/6528001102/1822391230/349.ts
  
