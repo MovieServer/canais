@@ -46,7 +46,7 @@ http://tv.com.vc:80/live/cilon/123/455068.ts
 http://7online.xyz:8080/live/lito84/091204nik/22305.ts
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="TODOS CANAIS", Futura HD
-http://7online.xyz:8080/live/lito84/091204nik/114062.ts
+http://tv.com.vc:80/live/cilon/123/621557.ts
 
 #EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="TODOS CANAIS", GNT HD
 http://7online.xyz:8080/live/lito84/091204nik/18832.ts
