@@ -7,8 +7,8 @@ http://tv.com.vc:80/live/cilon/123/621582.ts
 https://stream3.camara.gov.br/tv1/manifest.m3u8
  
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Canal Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="TODOS CANAIS", Canal Brasil HD
-http://7online.xyz:8080/live/lito84/091204nik/59645.ts
- 
+http://tv.com.vc:80/live/cilon/123/965532.ts
+
 #EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="TODOS CANAIS", Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
  
