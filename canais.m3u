@@ -13,8 +13,8 @@ http://tv.com.vc:80/live/cilon/123/965532.ts
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTMuv4SIhHuKsVdBUb9WmFl-xOYWfEPBy2PZWcX5g=s88-c-k-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Rede Família HD
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
- 
+http://tv.com.vc:80/live/cilon/123/961362.ts
+
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Rede TV HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/06/RedeTV.png" group-title="TODOS CANAIS", RedeTV! HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
  
