@@ -52,7 +52,7 @@ http://tv.com.vc:80/live/cilon/123/621557.ts
 http://tv.com.vc:80/live/cilon/123/621943.ts
 
 #EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="TODOS CANAIS", MTV HD
-http://7online.xyz:8080/live/lito84/091204nik/22586.ts
+http://tv.com.vc:80/live/cilon/123/740787.ts
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="TODOS CANAIS", Multishow HD
 http://7online.xyz:8080/live/lito84/091204nik/18849.ts
