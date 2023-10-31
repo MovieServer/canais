@@ -181,37 +181,37 @@ http://tv.com.vc:80/live/cilon/123/962345.ts
 http://tv.com.vc:80/live/cilon/123/623636.ts
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="TODOS CANAIS", Animal Planet HD
-http://conexaoonline.top:80/live/6528001102/1822391230/349.ts
- 
+http://tv.com.vc:80/live/cilon/123/454897.ts
+
 #EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="TODOS CANAIS", Arte1 HD
-http://conexaoonline.top:80/live/6528001102/1822391230/333.ts
- 
+http://tv.com.vc:80/live/cilon/123/621938.ts
+
 #EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg" group-title="TODOS CANAIS", Discovery Channel HD
-http://conexaoonline.top:80/live/6528001102/1822391230/342.ts
- 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-ck-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Descoberta H&H HD
-http://conexaoonline.top:80/live/6528001102/1822391230/343.ts
- 
+http://tv.com.vc:80/live/cilon/123/454900.ts
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-ck-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Discovery H&H HD
+http://tv.com.vc:80/live/cilon/123/454903.ts
+
 #EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png " group-title="TODOS CANAIS", Discovery HGTV HD
-http://conexaoonline.top:80/live/6528001102/1822391230/352.ts
- 
+http://tv.com.vc:80/live/cilon/123/454921.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Investiga%C3%A7%C3%A3o_Discovery.png" group-title="TODOS CANAIS", Discovery Investigação HD
-http://conexaoonline.top:80/live/6528001102/1822391230/369.ts
- 
+http://tv.com.vc:80/live/cilon/123/454924.ts
+
 #EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="TODOS CANAIS", Discovery Science HD
-http://7online.xyz:8080/live/lito84/091204nik/22509.ts
- 
+http://tv.com.vc:80/live/cilon/123/454909.ts
+
 #EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TODOS CANAIS", Discovery Theater HD
-http://esrv.cc:80/live/71CLAUDIOO/Yp45p/111.ts
+http://tv.com.vc:80/live/cilon/123/454912.ts
 
 #EXTINF:-1 tvg-id="TLCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="TODOS CANAIS", Descoberta TLC HD
-http://7online.xyz:8080/live/lito84/091204nik/22511.ts
- 
+http://tv.com.vc:80/live/cilon/123/752114.ts
+
 #EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="TODOS CANAIS", Descoberta TurboHD
-http://7online.xyz:8080/live/lito84/091204nik/22512.ts
- 
+http://tv.com.vc:80/live/cilon/123/454915.ts
+
 #EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png " group-title="TODOS CANAIS", Discovery World HD
-http://7online.xyz:8080/live/lito84/091204nik/22513.ts
+http://tv.com.vc:80/live/cilon/123/454918.ts
 
 #EXTINF:-1 tvg-id="FishTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZM9hmZ8wthPL4nQg8-XxISqyYORGqhGd1RA&usqp=CAU" group-title="TODOS CANAIS", Fish TV HD
 http://tv.com.vc:80/live/cilon/123/454941.ts
@@ -220,13 +220,13 @@ http://tv.com.vc:80/live/cilon/123/454941.ts
 http://tv.com.vc:80/live/cilon/123/621554.ts
 
 #EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="TODOS CANAIS", H2 HD
-http://7online.xyz:8080/live/lito84/091204nik/18833.ts
- 
+http://tv.com.vc:80/live/cilon/123/621946.ts
+
 #EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="TODOS CANAIS", History HD
-http://etc.meshmixer.cf:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/621949.ts
 
 #EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="TODOS CANAIS", National Geographic HD 
-http://7online.xyz:8080/live/lito84/091204nik/183640.ts
+http://tv.com.vc:80/live/cilon/123/621955.ts
 
 #EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="TODOS CANAIS", AMC HD
 http://CDN.skoltv.SITE:80/live/274626839/811237422/69413.ts
