@@ -6,7 +6,7 @@ http://tv.com.vc:80/live/cilon/123/621582.ts
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-1.png" group-title="TODOS CANAIS", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
  
-#EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Canal Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="TODOS CANAIS", Canal Brasil HD
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="TODOS CANAIS", Canal Brasil HD
 http://tv.com.vc:80/live/cilon/123/965532.ts
 
 #EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="TODOS CANAIS", Canal Saúde
@@ -228,7 +228,7 @@ http://tv.com.vc:80/live/cilon/123/621949.ts
 #EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="TODOS CANAIS", National Geographic HD 
 http://tv.com.vc:80/live/cilon/123/621955.ts
 
-#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="TODOS CANAIS", AMC HD
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="TODOS CANAIS", AMC HD
 http://tv.com.vc:80/live/cilon/123/455216.ts
 
 #EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="TODOS CANAIS", A&E HD
