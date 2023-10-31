@@ -43,7 +43,7 @@ http://tv.com.vc:80/live/cilon/123/740784.ts
 http://tv.com.vc:80/live/cilon/123/455068.ts
 
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TODOS CANAIS", Canção Nova HD
-http://7online.xyz:8080/live/lito84/091204nik/22305.ts
+http://tv.com.vc:80/live/cilon/123/615756.ts
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="TODOS CANAIS", Futura HD
 http://tv.com.vc:80/live/cilon/123/621557.ts
