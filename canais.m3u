@@ -264,19 +264,19 @@ http://tv.com.vc:80/live/cilon/123/454870.ts
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODOS CANAIS", HBO Family HD
 http://tv.com.vc:80/live/cilon/123/454872.ts
 
-#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="TODOS CANAIS", HBO Mundi HD
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="TODOS CANAIS", HBO Mundi HD
 http://tv.com.vc:80/live/cilon/123/454878.ts
 
-#EXTINF:-1 tvg-id="HBOPlusHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TODOS CANAIS", HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TODOS CANAIS", HBO Plus HD
 http://tv.com.vc:80/live/cilon/123/454882.ts
 
-#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3ND9TOsZ6xJOOAxKhyKZoX7ADz9BqUSmDQWqDOfeVZdiii9b_JdIC2U&s=10" group-title="TODOS CANAIS", HBO Pop HD
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3ND9TOsZ6xJOOAxKhyKZoX7ADz9BqUSmDQWqDOfeVZdiii9b_JdIC2U&s=10" group-title="TODOS CANAIS", HBO Pop HD
 http://tv.com.vc:80/live/cilon/123/454884.ts
 
-#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7ZCGBP153u_n58ZXJLkAvnuSlmoxY10qdG5Fkx9GcM9P-zG9Y6XCf30&s=10" group-title="TODOS CANAIS", HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7ZCGBP153u_n58ZXJLkAvnuSlmoxY10qdG5Fkx9GcM9P-zG9Y6XCf30&s=10" group-title="TODOS CANAIS", HBO Signature HD
 http://tv.com.vc:80/live/cilon/123/454887.ts
 
-#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevGwj4wDxJqMH_Ih_iTy2yekGsy5lj81xh-P1_SJTrbzBIRFY8ZFlLQiU&s=10" group-title="TODOS CANAIS", HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevGwj4wDxJqMH_Ih_iTy2yekGsy5lj81xh-P1_SJTrbzBIRFY8ZFlLQiU&s=10" group-title="TODOS CANAIS", HBO Xtreme HD
 http://tv.com.vc:80/live/cilon/123/454890.ts
 
 #EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="TODOS CANAIS", Lifetime HD
