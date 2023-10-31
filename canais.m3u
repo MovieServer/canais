@@ -1,0 +1,352 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/MarcosBFerreira/guia/main/guide.xml"
+
+#EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TODOS CANAIS", TV Cultura HD
+http://200.189.113.201:80/hls/tve-1676892737612.ts
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-1.png" group-title="TODOS CANAIS", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+ 
+#EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Canal Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="TODOS CANAIS", Canal Brasil HD
+http://7online.xyz:8080/live/lito84/091204nik/59645.ts
+ 
+#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="TODOS CANAIS", Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTMuv4SIhHuKsVdBUb9WmFl-xOYWfEPBy2PZWcX5g=s88-c-k-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+ 
+#EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Rede TV HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/06/RedeTV.png" group-title="TODOS CANAIS", RedeTV! HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS", Globo RJ HD
+http://conexaoonline.top:80/live/6528001102/1822391230/179.ts
+
+#EXTINF:-1 tvg-logo="https://www.cicbr.com.br/wp-content/uploads/2017/07/logo-band.jpg" group-title="TODOS CANAIS", Band RJ HD
+http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
+ 
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-02-24%2B14.51.15.png" group-title="TODOS CANAIS", CNT HD
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Rio de Janeiro/RJ  SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-1536x1536.png" group-title="TODOS CANAIS", SBT RJ HD
+http://lmtv.me:80/3Xa6ZR/7yzVQY/90290
+ 
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="TODOS CANAIS", Record RJ HD
+http://rstv.ml:80/play/WpNXoLn606x-bCV0YgJWgNeLzB92SMhn9tPy6Q9JdVA/ts
+ 
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/666px-Rede_Vida_logo.png" group-title="TODOS CANAIS", Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="TODOS CANAIS", BIS HD
+http://7online.xyz:8080/live/lito84/091204nik/22466.ts
+
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="TODOS CANAIS", Canal OFF HD
+http://7online.xyz:8080/live/lito84/091204nik/116717.ts
+
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TODOS CANAIS", Canção Nova HD
+http://7online.xyz:8080/live/lito84/091204nik/22305.ts
+
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="TODOS CANAIS", Futura HD
+http://7online.xyz:8080/live/lito84/091204nik/114062.ts
+
+#EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="TODOS CANAIS", GNT HD
+http://7online.xyz:8080/live/lito84/091204nik/18832.ts
+
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="TODOS CANAIS", MTV HD
+http://7online.xyz:8080/live/lito84/091204nik/22586.ts
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="TODOS CANAIS", Multishow HD
+http://7online.xyz:8080/live/lito84/091204nik/18849.ts
+
+#EXTINF:-1 tvg-id="CanalViva.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUF_StuUJl9WctM7Q2b904O5uWZ2-5CExeg&usqp=CAU" group-title="TODOS CANAIS", Viva HD
+http://7online.xyz:8080/live/lito84/091204nik/22630.ts
+
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="TODOS CANAIS", Woohoo HD
+http://7online.xyz:8080/live/lito84/091204nik/18883.ts
+
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="TODOS CANAIS", Band Sports HD
+http://tv.com.vc:80/live/cilon/123/454798.ts
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-combate/logo-canal-combate-2048.png" group-title="TODOS CANAIS", Combate HD
+http://tv.com.vc:80/live/cilon/123/454797.ts
+
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="TODOS CANAIS", Conmebol 1 HD
+http://7online.xyz:8080/live/lito84/091204nik/43013.ts
+
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="TODOS CANAIS", Conmebol 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/64676.ts
+
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="TODOS CANAIS", Conmebol 3 HD
+http://7online.xyz:8080/live/lito84/091204nik/43005.ts
+
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="TODOS CANAIS", Conmebol 4 HD
+http://7online.xyz:8080/live/lito84/091204nik/43007.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1-1536x1536.png" group-title="TODOS CANAIS", DAZN HD
+http://7online.xyz:8080/live/lito84/091204nik/69822.ts
+
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="TODOS CANAIS", ESPN HD
+http://7online.xyz:8080/live/lito84/091204nik/22529.ts
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="TODOS CANAIS", ESPN 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18662.ts
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="TODOS CANAIS", ESPN 3 HD
+http://7online.xyz:8080/live/lito84/091204nik/18663.ts
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="TODOS CANAIS", ESPN 4 HD
+http://7online.xyz:8080/live/lito84/091204nik/18667.ts
+
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo-650x366.png" group-title="TODOS CANAIS", ESPN Extra HD
+http://7online.xyz:8080/live/lito84/091204nik/22332.ts
+
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="TODOS CANAIS", Fox Sports 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18666.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png" group-title="TODOS CANAIS", HBO Max HD
+http://7online.xyz:8080/live/lito84/091204nik/69820.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrVIfziIvP4RA_y3_qspyRpcr_CU0ouj0-w&usqp=CAU" group-title="TODOS CANAIS", Premiere Futebol Clube HD
+http://splaytv.club:80/live/1ZiRmWKr/21486000/83251.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYexOt1xuycbqSZf2PNFQqL-5YPHOoj_cblg&usqp=CAU" group-title="TODOS CANAIS", Premiere 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18853.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCfAaXfe3xtZZB7BypzoELeIdk9t903jr7Q&usqp=CAU" group-title="TODOS CANAIS", Premiere 3 HD
+http://7online.xyz:8080/live/lito84/091204nik/18854.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_bOzfemBtUVocBEHng4QpcmXrjpBfSbbyg&usqp=CAU" group-title="TODOS CANAIS", Premiere 4 HD
+http://7online.xyz:8080/live/lito84/091204nik/18855.ts
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="TODOS CANAIS", SporTV HD
+http://7online.xyz:8080/live/lito84/091204nik/18659.ts
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="TODOS CANAIS", SporTV 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18660.ts
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="TODOS CANAIS", SporTV 3 HD
+http://7online.xyz:8080/live/lito84/091204nik/18661.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/800px-Star%2B_logo.svg.png" group-title="TODOS CANAIS", Star+ HD
+http://7online.xyz:8080/live/lito84/091204nik/59969.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-1536x1536.png" group-title="TODOS CANAIS", TNT Sports HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-1536x1536.png" group-title="TODOS CANAIS", TNT Sports 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-1536x1536.png" group-title="TODOS CANAIS", TNT Sports 3 HD
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-1536x1536.png" group-title="TODOS CANAIS", TNT Sports 4 HD
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-1536x1536.png" group-title="TODOS CANAIS", TNT Sports 5 HD
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TODOS CANAIS", Baby TV HD
+http://7online.xyz:8080/live/lito84/091204nik/22460.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="TODOS CANAIS", Cartoonito HD
+http://7online.xyz:8080/live/lito84/091204nik/22467.ts
+
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1Waceiknu5KaeMUO-FtvofldPMfl-Hh6TQ&usqp=CAU" group-title="TODOS CANAIS", Cartoon Network HD
+http://7online.xyz:8080/live/lito84/091204nik/121370.ts
+
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="TODOS CANAIS", Discovery Kids HD
+http://7online.xyz:8080/live/lito84/091204nik/22508.ts
+
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="TODOS CANAIS", Disney Channel HD
+http://7online.xyz:8080/live/lito84/091204nik/18703.ts
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="TODOS CANAIS", Gloob HD
+http://7online.xyz:8080/live/lito84/091204nik/18702.ts
+
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png" group-title="TODOS CANAIS", Gloobinho HD
+http://7online.xyz:8080/live/lito84/091204nik/121373.ts
+
+#EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/604px-Nick_Jr._logo_2009.svg.png" group-title="TODOS CANAIS", Nick Jr HD
+http://7online.xyz:8080/live/lito84/091204nik/22592.ts
+
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="TODOS CANAIS", Nickelodeon HD
+http://7online.xyz:8080/live/lito84/091204nik/22593.ts
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TODOS CANAIS", Tooncast HD
+http://7online.xyz:8080/live/lito84/091204nik/22625.ts
+
+#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="TODOS CANAIS", TV Rá-Tim-Bum
+http://7online.xyz:8080/live/lito84/091204nik/125503.ts
+
+#EXTINF:-1 tvg-id="ZooMooBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="TODOS CANAIS", ZooMoo HD
+http://7online.xyz:8080/live/lito84/091204nik/125507.ts
+ 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="TODOS CANAIS", Animal Planet HD
+http://conexaoonline.top:80/live/6528001102/1822391230/349.ts
+ 
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="TODOS CANAIS", Arte1 HD
+http://conexaoonline.top:80/live/6528001102/1822391230/333.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg" group-title="TODOS CANAIS", Discovery Channel HD
+http://conexaoonline.top:80/live/6528001102/1822391230/342.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s900-ck-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Descoberta H&H HD
+http://conexaoonline.top:80/live/6528001102/1822391230/343.ts
+ 
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png " group-title="TODOS CANAIS", Discovery HGTV HD
+http://conexaoonline.top:80/live/6528001102/1822391230/352.ts
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Investiga%C3%A7%C3%A3o_Discovery.png" group-title="TODOS CANAIS", Discovery Investigação HD
+http://conexaoonline.top:80/live/6528001102/1822391230/369.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="TODOS CANAIS", Discovery Science HD
+http://7online.xyz:8080/live/lito84/091204nik/22509.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TODOS CANAIS", Discovery Theater HD
+http://esrv.cc:80/live/71CLAUDIOO/Yp45p/111.ts
+
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="TODOS CANAIS", Descoberta TLC HD
+http://7online.xyz:8080/live/lito84/091204nik/22511.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="TODOS CANAIS", Descoberta TurboHD
+http://7online.xyz:8080/live/lito84/091204nik/22512.ts
+ 
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png " group-title="TODOS CANAIS", Discovery World HD
+http://7online.xyz:8080/live/lito84/091204nik/22513.ts
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZM9hmZ8wthPL4nQg8-XxISqyYORGqhGd1RA&usqp=CAU" group-title="TODOS CANAIS", Fish TV HD
+http://tv.com.vc:80/live/cilon/123/454941.ts
+
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="TODOS CANAIS", Food Network HD
+http://7online.xyz:8080/live/lito84/091204nik/22533.ts
+ 
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="TODOS CANAIS", H2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18833.ts
+ 
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="TODOS CANAIS", History HD
+http://etc.meshmixer.cf:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="TODOS CANAIS", National Geographic HD 
+http://7online.xyz:8080/live/lito84/091204nik/183640.ts
+
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="TODOS CANAIS", AMC HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/69413.ts
+ 
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="TODOS CANAIS", A&E HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/69408.ts
+ 
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="TODOS CANAIS", AXN HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/69419.ts
+ 
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/1045px-Canal_Sony_logo_monochrome.svg.png" group-title="TODOS CANAIS", Canal Sony HD
+http://7online.xyz:8080/live/lito84/091204nik/18860.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TODOS CANAIS", Cinecanal HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/106136.ts
+
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TODOS CANAIS", Cinemax HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/69425.ts
+
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="TODOS CANAIS", Comedy Central HD
+http://7online.xyz:8080/live/lito84/091204nik/31483.ts
+
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNImCHoeXJqHTbCV1y5ijL3uEkZ-yXoQlO-Q&usqp=CAU" group-title="TODOS CANAIS", E! HD
+http://7online.xyz:8080/live/lito84/091204nik/18829.ts
+
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUJd2kwkQUAaCDShHl9SC4D4NI2jXxyDqbg&usqp=CAU" group-title="TODOS CANAIS", FX HD
+http://CDN.skoltv.SITE:80/live/274626839/811237422/69433.ts
+
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXK4PeCe7y3O9qhggtmunhZT-2E13Zt0yj4EW9k1NIY7toAhZv5XdIODr&s=10" group-title="TODOS CANAIS", HBO HD
+http://7online.xyz:8080/live/lito84/091204nik/18836.ts
+
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMeFMTpfNw24zxvNF7Uvv8PWAPkeTrdaVlbcc0As5jf7mXDpXNa3pVUU&s=10" group-title="TODOS CANAIS", HBO 2 HD
+http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODOS CANAIS", HBO Family HD
+http://7online.xyz:8080/live/lito84/091204nik/18835.ts
+
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="TODOS CANAIS", HBO Mundi HD
+http://7online.xyz:8080/live/lito84/091204nik/18837.ts
+
+#EXTINF:-1 tvg-id="HBOPlusHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TODOS CANAIS", HBO Plus HD
+http://7online.xyz:8080/live/lito84/091204nik/18838.ts
+
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3ND9TOsZ6xJOOAxKhyKZoX7ADz9BqUSmDQWqDOfeVZdiii9b_JdIC2U&s=10" group-title="TODOS CANAIS", HBO Pop HD
+http://7online.xyz:8080/live/lito84/091204nik/18839.ts
+
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7ZCGBP153u_n58ZXJLkAvnuSlmoxY10qdG5Fkx9GcM9P-zG9Y6XCf30&s=10" group-title="TODOS CANAIS", HBO Signature HD
+http://7online.xyz:8080/live/lito84/091204nik/18840.ts
+
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevGwj4wDxJqMH_Ih_iTy2yekGsy5lj81xh-P1_SJTrbzBIRFY8ZFlLQiU&s=10" group-title="TODOS CANAIS", HBO Xtreme HD
+http://7online.xyz:8080/live/lito84/091204nik/18841.ts
+
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="TODOS CANAIS", Lifetime HD
+http://7online.xyz:8080/live/lito84/091204nik/18845.ts
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="TODOS CANAIS", Megapix HD
+http://etc.meshmixer.cf:2095/live/megapix/chunks.m3u8?token=1678816936_7be784a9981b83e713b660b6e8571369ee35d327
+
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="TODOS CANAIS", Paramount HD
+http://7online.xyz:8080/live/lito84/091204nik/18852.ts
+
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsl0CPyyYepabAD8yUP0kinoKUsDlZ397f8A&usqp=CAU" group-title="TODOS CANAIS", Space HD
+http://7online.xyz:8080/live/lito84/091204nik/22611.ts
+
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="TODOS CANAIS", Star HD
+http://7online.xyz:8080/live/lito84/091204nik/18862.ts
+
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="TODOS CANAIS", Studio Universal HD
+http://7online.xyz:8080/live/lito84/091204nik/18866.ts
+
+#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1280px-Syfy.svg.png" group-title="TODOS CANAIS", SyFy HD
+http://7online.xyz:8080/live/lito84/091204nik/18867.ts
+
+#EXTINF:-1 tvg-id="TBSBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TBS_logo_2016.svg" group-title="TODOS CANAIS", TBS HD
+http://a5telecom.tvpn.eu:80/0728/0728/149
+
+#EXTINF:-1 tvg-id="TCMBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="TODOS CANAIS", TCM HD
+http://7online.xyz:8080/live/lito84/091204nik/160764.ts
+
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest?cb=20160228233323" group-title="TODOS CANAIS", Telecine Action HD
+http://etc.meshmixer.cf:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="TODOS CANAIS", Telecine Cult HD
+http://dmnet.distv.net:80/rafaela/123456/151
+
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7IW9PixcuVmoBPYbL-LkjW8sQ8b1ci17Rl_8DteMIQPqsxYJ57ptSD0&s=10" group-title="TODOS CANAIS", Telecine Fun HD
+http://dmnet.distv.net:80/rafaela/123456/152
+
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/1024px-Telecine_Pipoca.png" group-title="TODOS CANAIS", Telecine Pipoca HD
+http://etc.meshmixer.cf:2095/live/telecinepipoca/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TODOS CANAIS", Telecine Premium HD
+http://dmnet.distv.net:80/rafaela/123456/154
+
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TODOS CANAIS", Telecine Touch HD
+http://dmnet.distv.net:80/rafaela/123456/155
+
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="TODOS CANAIS", TNT HD
+http://contentzord.gelderland.ga:2095/live/tnt/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TODOS CANAIS", TNT Séries HD
+http://7online.xyz:8080/live/lito84/091204nik/18876.ts
+
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="TODOS CANAIS", Universal HD
+http://7online.xyz:8080/live/lito84/091204nik/18879.ts
+
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="TODOS CANAIS", Warner HD
+http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="TODOS CANAIS", CNN Brasil HD
+https://hls.youtb.workers.dev/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://imagem.natelinha.uol.com.br/original/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="TODOS CANAIS", Globo News HD
+http://7online.xyz:8080/live/lito84/091204nik/29586.ts
+ 
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="TODOS CANAIS", Band News HD
+http://7online.xyz:8080/live/lito84/091204nik/22461.ts
+ 
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s88-c-k-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Record News HD
+http://7online.xyz:8080/live/lito84/091204nik/18592.ts
+ 
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Jovem_Pan_News_logo.png/revision/latest/scale-to-width-down/400?cb=20150805142926" group-title="TODOS CANAIS", Jovem Pan News HD
+http://7online.xyz:8080/live/lito84/091204nik/64581.ts
