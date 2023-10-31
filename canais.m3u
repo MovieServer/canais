@@ -243,7 +243,7 @@ http://tv.com.vc:80/live/cilon/123/455222.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TODOS CANAIS", Cinecanal HD
 http://tv.com.vc:80/live/cilon/123/455253.ts
 
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TODOS CANAIS", Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TODOS CANAIS", Cinemax HD
 http://tv.com.vc:80/live/cilon/123/455225.ts
 
 #EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="TODOS CANAIS", Comedy Central HD
@@ -255,13 +255,13 @@ http://tv.com.vc:80/live/cilon/123/621940.ts
 #EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUJd2kwkQUAaCDShHl9SC4D4NI2jXxyDqbg&usqp=CAU" group-title="TODOS CANAIS", FX HD
 http://tv.com.vc:80/live/cilon/123/455234.ts
 
-#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXK4PeCe7y3O9qhggtmunhZT-2E13Zt0yj4EW9k1NIY7toAhZv5XdIODr&s=10" group-title="TODOS CANAIS", HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXK4PeCe7y3O9qhggtmunhZT-2E13Zt0yj4EW9k1NIY7toAhZv5XdIODr&s=10" group-title="TODOS CANAIS", HBO HD
 http://tv.com.vc:80/live/cilon/123/454875.ts
 
-#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMeFMTpfNw24zxvNF7Uvv8PWAPkeTrdaVlbcc0As5jf7mXDpXNa3pVUU&s=10" group-title="TODOS CANAIS", HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMeFMTpfNw24zxvNF7Uvv8PWAPkeTrdaVlbcc0As5jf7mXDpXNa3pVUU&s=10" group-title="TODOS CANAIS", HBO 2 HD
 http://tv.com.vc:80/live/cilon/123/454870.ts
 
-#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODOS CANAIS", HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODOS CANAIS", HBO Family HD
 http://tv.com.vc:80/live/cilon/123/454872.ts
 
 #EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="TODOS CANAIS", HBO Mundi HD
