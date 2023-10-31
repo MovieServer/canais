@@ -19,7 +19,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b162800
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
  
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS", Globo RJ HD
-http://conexaoonline.top:80/live/6528001102/1822391230/179.ts
+http://tv.com.vc:80/live/cilon/123/752113.ts
 
 #EXTINF:-1 tvg-logo="https://www.cicbr.com.br/wp-content/uploads/2017/07/logo-band.jpg" group-title="TODOS CANAIS", Band RJ HD
 http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
