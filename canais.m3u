@@ -16,8 +16,8 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 http://tv.com.vc:80/live/cilon/123/961362.ts
 
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Rede TV HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/06/RedeTV.png" group-title="TODOS CANAIS", RedeTV! HD
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
- 
+http://tv.com.vc:80/live/cilon/123/622060.ts
+
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS", Globo RJ HD
 http://tv.com.vc:80/live/cilon/123/752113.ts
 
