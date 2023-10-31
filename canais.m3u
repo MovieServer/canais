@@ -28,8 +28,8 @@ http://tv.com.vc:80/live/cilon/123/622050.ts
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
  
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-1536x1536.png" group-title="TODOS CANAIS", SBT RJ HD
-http://lmtv.me:80/3Xa6ZR/7yzVQY/90290
- 
+http://tv.com.vc:80/live/cilon/123/621994.ts
+
 #EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="TODOS CANAIS", Record RJ HD
 http://rstv.ml:80/play/WpNXoLn606x-bCV0YgJWgNeLzB92SMhn9tPy6Q9JdVA/ts
  
