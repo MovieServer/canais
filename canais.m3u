@@ -34,7 +34,7 @@ http://tv.com.vc:80/live/cilon/123/621994.ts
 http://tv.com.vc:80/live/cilon/123/615047.ts
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/666px-Rede_Vida_logo.png" group-title="TODOS CANAIS", Rede Vida HD
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+http://tv.com.vc:80/live/cilon/123/621568.ts
 
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="TODOS CANAIS", BIS HD
 http://7online.xyz:8080/live/lito84/091204nik/22466.ts
