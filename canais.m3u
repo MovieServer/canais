@@ -229,124 +229,124 @@ http://tv.com.vc:80/live/cilon/123/621949.ts
 http://tv.com.vc:80/live/cilon/123/621955.ts
 
 #EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="TODOS CANAIS", AMC HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/69413.ts
- 
+http://tv.com.vc:80/live/cilon/123/455216.ts
+
 #EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="TODOS CANAIS", A&E HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/69408.ts
- 
+http://tv.com.vc:80/live/cilon/123/455213.ts
+
 #EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="TODOS CANAIS", AXN HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/69419.ts
- 
+http://tv.com.vc:80/live/cilon/123/455219.ts
+
 #EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/1045px-Canal_Sony_logo_monochrome.svg.png" group-title="TODOS CANAIS", Canal Sony HD
-http://7online.xyz:8080/live/lito84/091204nik/18860.ts
+http://tv.com.vc:80/live/cilon/123/455222.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="TODOS CANAIS", Cinecanal HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/106136.ts
+http://tv.com.vc:80/live/cilon/123/455253.ts
 
 #EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TODOS CANAIS", Cinemax HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/69425.ts
+http://tv.com.vc:80/live/cilon/123/455225.ts
 
 #EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJC7rb_0fsY-iasP9vFl5Wig1aJuKsfYt_jQdY0uEu8G8z7XgqsdtS4qs&s=10" group-title="TODOS CANAIS", Comedy Central HD
-http://7online.xyz:8080/live/lito84/091204nik/31483.ts
+http://tv.com.vc:80/live/cilon/123/455339.ts
 
 #EXTINF:-1 tvg-id="EBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNImCHoeXJqHTbCV1y5ijL3uEkZ-yXoQlO-Q&usqp=CAU" group-title="TODOS CANAIS", E! HD
-http://7online.xyz:8080/live/lito84/091204nik/18829.ts
+http://tv.com.vc:80/live/cilon/123/621940.ts
 
 #EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUJd2kwkQUAaCDShHl9SC4D4NI2jXxyDqbg&usqp=CAU" group-title="TODOS CANAIS", FX HD
-http://CDN.skoltv.SITE:80/live/274626839/811237422/69433.ts
+http://tv.com.vc:80/live/cilon/123/455234.ts
 
 #EXTINF:-1 tvg-id="HBOBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXK4PeCe7y3O9qhggtmunhZT-2E13Zt0yj4EW9k1NIY7toAhZv5XdIODr&s=10" group-title="TODOS CANAIS", HBO HD
-http://7online.xyz:8080/live/lito84/091204nik/18836.ts
+http://tv.com.vc:80/live/cilon/123/454875.ts
 
 #EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMeFMTpfNw24zxvNF7Uvv8PWAPkeTrdaVlbcc0As5jf7mXDpXNa3pVUU&s=10" group-title="TODOS CANAIS", HBO 2 HD
-http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/454870.ts
 
 #EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TODOS CANAIS", HBO Family HD
-http://7online.xyz:8080/live/lito84/091204nik/18835.ts
+http://tv.com.vc:80/live/cilon/123/454872.ts
 
 #EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi4ur5gDHiBmWex3WoePKQvAdaj36x-BG9IqyPcQ5shJennwN5iVw4_C0&s=10" group-title="TODOS CANAIS", HBO Mundi HD
-http://7online.xyz:8080/live/lito84/091204nik/18837.ts
+http://tv.com.vc:80/live/cilon/123/454878.ts
 
 #EXTINF:-1 tvg-id="HBOPlusHDBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TODOS CANAIS", HBO Plus HD
-http://7online.xyz:8080/live/lito84/091204nik/18838.ts
+http://tv.com.vc:80/live/cilon/123/454882.ts
 
 #EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3ND9TOsZ6xJOOAxKhyKZoX7ADz9BqUSmDQWqDOfeVZdiii9b_JdIC2U&s=10" group-title="TODOS CANAIS", HBO Pop HD
-http://7online.xyz:8080/live/lito84/091204nik/18839.ts
+http://tv.com.vc:80/live/cilon/123/454884.ts
 
 #EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7ZCGBP153u_n58ZXJLkAvnuSlmoxY10qdG5Fkx9GcM9P-zG9Y6XCf30&s=10" group-title="TODOS CANAIS", HBO Signature HD
-http://7online.xyz:8080/live/lito84/091204nik/18840.ts
+http://tv.com.vc:80/live/cilon/123/454887.ts
 
 #EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevGwj4wDxJqMH_Ih_iTy2yekGsy5lj81xh-P1_SJTrbzBIRFY8ZFlLQiU&s=10" group-title="TODOS CANAIS", HBO Xtreme HD
-http://7online.xyz:8080/live/lito84/091204nik/18841.ts
+http://tv.com.vc:80/live/cilon/123/454890.ts
 
 #EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="TODOS CANAIS", Lifetime HD
-http://7online.xyz:8080/live/lito84/091204nik/18845.ts
+http://tv.com.vc:80/live/cilon/123/455237.ts
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="TODOS CANAIS", Megapix HD
-http://etc.meshmixer.cf:2095/live/megapix/chunks.m3u8?token=1678816936_7be784a9981b83e713b660b6e8571369ee35d327
+http://tv.com.vc:80/live/cilon/123/455240.ts
 
 #EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="TODOS CANAIS", Paramount HD
-http://7online.xyz:8080/live/lito84/091204nik/18852.ts
+http://tv.com.vc:80/live/cilon/123/455244.ts
 
 #EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsl0CPyyYepabAD8yUP0kinoKUsDlZ397f8A&usqp=CAU" group-title="TODOS CANAIS", Space HD
-http://7online.xyz:8080/live/lito84/091204nik/22611.ts
+http://tv.com.vc:80/live/cilon/123/455247.ts
 
 #EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDiWrHRTTlNE2jqLwS-wfkbWYj8JwpFi62g&usqp=CAU" group-title="TODOS CANAIS", Star HD
-http://7online.xyz:8080/live/lito84/091204nik/18862.ts
+http://tv.com.vc:80/live/cilon/123/455250.ts
 
 #EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="TODOS CANAIS", Studio Universal HD
-http://7online.xyz:8080/live/lito84/091204nik/18866.ts
+http://tv.com.vc:80/live/cilon/123/455256.ts
 
 #EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1280px-Syfy.svg.png" group-title="TODOS CANAIS", SyFy HD
-http://7online.xyz:8080/live/lito84/091204nik/18867.ts
+http://tv.com.vc:80/live/cilon/123/455260.ts
 
 #EXTINF:-1 tvg-id="TBSBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TBS_logo_2016.svg" group-title="TODOS CANAIS", TBS HD
-http://a5telecom.tvpn.eu:80/0728/0728/149
+http://tv.com.vc:80/live/cilon/123/954627.ts
 
 #EXTINF:-1 tvg-id="TCMBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="TODOS CANAIS", TCM HD
-http://7online.xyz:8080/live/lito84/091204nik/160764.ts
+http://tv.com.vc:80/live/cilon/123/455322.ts
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest?cb=20160228233323" group-title="TODOS CANAIS", Telecine Action HD
-http://etc.meshmixer.cf:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/454851.ts
 
 #EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="TODOS CANAIS", Telecine Cult HD
-http://dmnet.distv.net:80/rafaela/123456/151
+http://tv.com.vc:80/live/cilon/123/454854.ts
 
 #EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7IW9PixcuVmoBPYbL-LkjW8sQ8b1ci17Rl_8DteMIQPqsxYJ57ptSD0&s=10" group-title="TODOS CANAIS", Telecine Fun HD
-http://dmnet.distv.net:80/rafaela/123456/152
+http://tv.com.vc:80/live/cilon/123/454857.ts
 
 #EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/1024px-Telecine_Pipoca.png" group-title="TODOS CANAIS", Telecine Pipoca HD
-http://etc.meshmixer.cf:2095/live/telecinepipoca/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/454860.ts
 
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="TODOS CANAIS", Telecine Premium HD
-http://dmnet.distv.net:80/rafaela/123456/154
+http://tv.com.vc:80/live/cilon/123/454863.ts
 
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="TODOS CANAIS", Telecine Touch HD
-http://dmnet.distv.net:80/rafaela/123456/155
+http://tv.com.vc:80/live/cilon/123/454866.ts
 
 #EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOhsyMiiKW4lagcWg7yJ7fd6u-j7fIF1wcw&usqp=CAU" group-title="TODOS CANAIS", TNT HD
-http://contentzord.gelderland.ga:2095/live/tnt/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/455265.ts
 
 #EXTINF:-1 tvg-id="TNTSeriesBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TODOS CANAIS", TNT Séries HD
-http://7online.xyz:8080/live/lito84/091204nik/18876.ts
+http://tv.com.vc:80/live/cilon/123/455268.ts
 
 #EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="TODOS CANAIS", Universal HD
-http://7online.xyz:8080/live/lito84/091204nik/18879.ts
+http://tv.com.vc:80/live/cilon/123/455256.ts
 
 #EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="TODOS CANAIS", Warner HD
-http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+http://tv.com.vc:80/live/cilon/123/455274.ts
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="TODOS CANAIS", CNN Brasil HD
-https://hls.youtb.workers.dev/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+http://tv.com.vc:80/live/cilon/123/455088.ts
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://imagem.natelinha.uol.com.br/original/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="TODOS CANAIS", Globo News HD
-http://7online.xyz:8080/live/lito84/091204nik/29586.ts
- 
+http://tv.com.vc:80/live/cilon/123/455091.ts
+
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="TODOS CANAIS", Band News HD
-http://7online.xyz:8080/live/lito84/091204nik/22461.ts
- 
+http://tv.com.vc:80/live/cilon/123/966094.ts
+
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s88-c-k-c0x00ffffff-no-rj" group-title="TODOS CANAIS", Record News HD
-http://7online.xyz:8080/live/lito84/091204nik/18592.ts
- 
+http://tv.com.vc:80/live/cilon/123/963594.ts
+
 #EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Jovem_Pan_News_logo.png/revision/latest/scale-to-width-down/400?cb=20150805142926" group-title="TODOS CANAIS", Jovem Pan News HD
-http://7online.xyz:8080/live/lito84/091204nik/64581.ts
+http://tv.com.vc:80/live/cilon/123/455085.ts
