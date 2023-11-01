@@ -285,7 +285,7 @@ http://tv.com.vc:80/live/cilon/123/455237.ts
 #EXTINF:-1 tvg-id="Megapix" tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="TODOS CANAIS", Megapix HD
 http://tv.com.vc:80/live/cilon/123/455240.ts
 
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="TODOS CANAIS", Paramount HD
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png" group-title="TODOS CANAIS", Paramount HD
 http://tv.com.vc:80/live/cilon/123/455244.ts
 
 #EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsl0CPyyYepabAD8yUP0kinoKUsDlZ397f8A&usqp=CAU" group-title="TODOS CANAIS", Space HD
