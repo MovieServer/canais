@@ -333,7 +333,7 @@ http://tv.com.vc:80/live/cilon/123/455268.ts
 #EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="TODOS CANAIS", Universal HD
 http://tv.com.vc:80/live/cilon/123/455256.ts
 
-#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="TODOS CANAIS", Warner HD
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="TODOS CANAIS", Warner HD
 http://tv.com.vc:80/live/cilon/123/455274.ts
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2019/03/logo-cnn-brasil.jpg" group-title="TODOS CANAIS", CNN Brasil HD
