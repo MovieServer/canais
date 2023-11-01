@@ -18,7 +18,7 @@ http://tv.com.vc:80/live/cilon/123/961362.ts
 #EXTINF:-1 tvg-id="Rio de Janeiro/RJ  Rede TV HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/06/RedeTV.png" group-title="TODOS CANAIS", RedeTV! HD
 http://tv.com.vc:80/live/cilon/123/622060.ts
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS", Globo RJ HD
+#EXTINF:-1 tvg-id="TV Rio Sul" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS", Globo RJ HD
 http://tv.com.vc:80/live/cilon/123/752113.ts
 
 #EXTINF:-1 tvg-logo="https://www.cicbr.com.br/wp-content/uploads/2017/07/logo-band.jpg" group-title="TODOS CANAIS", Band RJ HD
